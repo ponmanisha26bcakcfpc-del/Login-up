@@ -2,7 +2,7 @@ Login Page
 
 Prototype
 
-https://www.figma.com/proto/SXHpuesUX4LaxtU5GbGbXq/Untitled?node-id=0-1&t=fS9Y1yGARSLSndSl-1
+https://www.figma.com/proto/SXHpuesUX4LaxtU5GbGbXq/Untitled?node-id=14-14&t=fS9Y1yGARSLSndSl-1
 
 Design Link
 
